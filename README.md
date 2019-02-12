@@ -35,10 +35,23 @@ Then run:
 source ~/.bashrc
 ```
 
-## CUDA installation with deb(network) for Ubuntu 16.04
+## CUDA installation with deb(network) for Ubuntu 16.04 [(link)](https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=debnetwork)
 ```
 sudo dpkg -i cuda-repo-ubuntu1604_10.0.130-1_amd64.deb
 sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/7fa2af80.pub
 sudo apt-get update
 sudo apt-get install cuda
+```
+## CUDNN installation with deb(network) for Ubuntu 16.04 [(link)](https://developer.nvidia.com/rdp/cudnn-download)
+```
+sudo dpkg -i libcudnn7_7.4.2.24-1+cuda10.0_amd64.deb
+sudo dpkg -i libcudnn7-dev_7.4.2.24-1+cuda10.0_amd64.deb
+sudo dpkg -i libcudnn7-doc_7.4.2.24-1+cuda10.0_amd64.deb
+```
+
+## NCCL installation with deb(network) for Ubuntu 16.04 [(link)](https://developer.nvidia.com/nccl/nccl-download)
+```
+sudo dpkg -i nvidia-machine-learning-repo-ubuntu1604_1.0.0-1_amd64.deb
+sudo apt update
+sudo apt install libnccl2
 ```
