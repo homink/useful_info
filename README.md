@@ -3,7 +3,7 @@ Archive for useful information and commands
 
 ## SoX installation for Ubuntu
 ```
-sudo apt-get update && sudo apt-get install sox libsox-fmt-all
+sudo apt-get update && sudo apt-get install sox libsox-dev libsox-fmt-all
 ```
 
 ## NIVIDIA driver installation for Ubuntu
