@@ -5,6 +5,7 @@ Archive for useful information and commands
 
 ### [Bits peration](https://github.com/homink/useful_info/blob/master/BitsOperation.py)
 ### [Tree traversal](https://github.com/homink/useful_info/blob/master/TreeTraversal.py)
+### [Word Search](https://github.com/homink/useful_info/blob/master/WordSearch.py)
 
 ## SoX installation for Ubuntu
 ```
