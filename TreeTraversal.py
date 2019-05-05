@@ -145,6 +145,55 @@ def VerticalOrder_v2(root):
 
 	return res
 
+def MinDist(root,a,b):
+	def path2node(root,path,x):
+		if not root:
+			return False
+
+		path.append(root.val)
+
+		if root.val==x:
+			return True
+
+		if (root.left and path2node(root.left,path,x)) or \
+		 (root.right and path2node(root.right,path,x)):
+		   return True
+
+		path.pop()
+
+		return False
+
+	if root:
+		path1 = []
+		path2node(root,path1,a)
+		path2 = []
+		path2node(root,path2,b)
+		count=0
+		for i,j in zip(path1,path2):
+			if i!=j:
+				break
+			else:
+				count+=1
+		return len(path1) + len(path2) -2*count
+
+	else:
+		return 0
+
+def LeftView(root):
+	def getLefty(root,res):
+		if not root:
+			return
+
+		res.append(root.val)
+
+		if root.left:
+			getLefty(root.left,res)
+
+		return res
+	
+	res=[]
+	return getLefty(root,res)
+
 t9 = Node(9);t7 = Node(7,None,t9)
 t8 = Node(8);t6 = Node(6,None,t8)
 t3 = Node(3,t6,t7)
@@ -158,3 +207,9 @@ print("averageOfLevels");print(averageOfLevels(t1))
 print("zigzagLevelOrder");print(zigzagLevelOrder(t1))
 print("VerticalOrder");print(VerticalOrder(t1))
 print("VerticalOrder v2");print(VerticalOrder_v2(t1))
+print("MinDist 1,2")
+print(MinDist(t1,1,2))
+print("MinDist 4,8")
+print(MinDist(t1,4,8))
+print("LeftView")
+print(LeftView(t1))
