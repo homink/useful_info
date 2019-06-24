@@ -1,7 +1,7 @@
 # Useful_info
 Archive for useful information and commands
 
-## Coding
+## [Coding](https://github.com/homink/useful_info/blob/master/coding.md)
 
 ## SoX installation for Ubuntu
 ```
