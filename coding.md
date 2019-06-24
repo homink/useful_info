@@ -35,3 +35,8 @@
 
 # Graph
 ## [Find path](https://www.python.org/doc/essays/graphs/)
+
+# String & Number
+
+## [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [solution](https://leetcode.com/problems/longest-palindromic-substring/discuss/318929/Python)
+## [Palindrome Number](https://leetcode.com/problems/palindrome-number/): [solution](https://leetcode.com/problems/palindrome-number/discuss/5493/Python-solution-with-reverse-integer)
