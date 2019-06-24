@@ -44,7 +44,7 @@
 
 ## [Decode ways](https://leetcode.com/problems/decode-ways/): [solution](https://leetcode.com/problems/decode-ways/discuss/30385/Python-Simple-O(1)-Space)
 
-## [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [solution](https://leetcode.com/problems/valid-parentheses/discuss/9588/Python-concise-solution-using-stack.)
+## [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [solution](https://leetcode.com/problems/valid-parentheses/discuss/319014/Python)
 
 # Design
 
