@@ -18,5 +18,20 @@
 
 ## [Tree path](https://leetcode.com/problems/binary-tree-paths): [solution](https://leetcode.com/problems/binary-tree-paths/discuss/68329/Python-Solution-with-Detailed-Explanation)
 
+# LinkedList
+## [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/): [solution](https://leetcode.com/problems/reverse-linked-list/discuss/58338/Python-solution-Simple-Iterative)
+
 ## [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/): [solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/35593/Short-python-solution-based-on-Sorted-Array)
 
+# Matrix
+## [Rotate matrix (2D list)](https://leetcode.com/problems/rotate-image/): [solution](https://leetcode.com/problems/rotate-image/discuss/18884/Seven-Short-Solutions-(1-to-7-lines))
+### -90 degree totation: zip(*matrix)[::-1], +90 degree: matrix.reverse();zip(*matrix)
+
+## [Print matrix spiral](https://leetcode.com/problems/spiral-matrix/): [solution](https://leetcode.com/problems/spiral-matrix/discuss/20571/1-liner-in-Python-%2B-Ruby)
+
+## [Number of island](https://leetcode.com/problems/number-of-islands/): [solution](https://leetcode.com/problems/number-of-islands/discuss/56340/Python-Simple-DFS-Solution)
+
+## [Word search](https://leetcode.com/problems/word-search/): [solution](https://leetcode.com/problems/word-search/discuss/27660/Python-dfs-solution-with-comments.)
+
+# Graph
+## [Find path](https://www.python.org/doc/essays/graphs/)
