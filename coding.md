@@ -10,13 +10,13 @@
 
 ## [Distance between two nodes](https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/)
 
-## [Path sum](https://leetcode.com/problems/path-sum/)
+## [Path sum](https://leetcode.com/problems/path-sum/discuss/36413/Python-Solution-with-Detailed-Explanation)
 
-## [Path sum 2](https://leetcode.com/problems/path-sum-ii/)
+## [Path sum 2](https://leetcode.com/problems/path-sum-ii/discuss/36750/Python-Solution-with-Detailed-Explanation)
 
-## [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+## [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41411/Python-Solution-with-Detailed-Explanation)
 
-## [Tree path](https://leetcode.com/problems/binary-tree-paths/)
+## [Tree path](https://leetcode.com/problems/binary-tree-paths/discuss/68329/Python-Solution-with-Detailed-Explanation)
 
 ## [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 
