@@ -4,7 +4,7 @@
 
 ## [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/56064/5-9-Lines-Python-48%2B-ms)
 
-## [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+## [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/discuss/123287/BFS-beats-100-Python)
 
 ## [Vertical Order Traversal](https://www.geeksforgeeks.org/print-binary-tree-vertical-order-set-2/)
 
