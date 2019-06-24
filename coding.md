@@ -1,6 +1,6 @@
 # Tree Traversal
 
-## [Validate binary tree](https://leetcode.com/problems/validate-binary-search-tree/): [solution](https://leetcode.com/problems/validate-binary-search-tree/discuss/32201/Python-solution-with-detailed-explanation){:target="_blank"}
+## [Validate binary tree](https://leetcode.com/problems/validate-binary-search-tree/): [solution](https://leetcode.com/problems/validate-binary-search-tree/discuss/32201/Python-solution-with-detailed-explanation)
 
 ## [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/): [solution](https://leetcode.com/problems/binary-tree-right-side-view/discuss/56064/5-9-Lines-Python-48%2B-ms)
 
