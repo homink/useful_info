@@ -39,4 +39,10 @@
 # String & Number
 
 ## [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/): [solution](https://leetcode.com/problems/longest-palindromic-substring/discuss/318929/Python)
+
 ## [Palindrome Number](https://leetcode.com/problems/palindrome-number/): [solution](https://leetcode.com/problems/palindrome-number/discuss/5493/Python-solution-with-reverse-integer)
+
+## [Decode ways](https://leetcode.com/problems/decode-ways/): [solution](https://leetcode.com/problems/decode-ways/discuss/240637/Python-solution)
+
+## [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [solution](https://leetcode.com/problems/valid-parentheses/discuss/9588/Python-concise-solution-using-stack.)
+
