@@ -2,7 +2,7 @@
 
 ## [Validate binary tree](https://leetcode.com/problems/validate-binary-search-tree/discuss/32201/Python-solution-with-detailed-explanation)
 
-## [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/)
+## [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/discuss/56064/5-9-Lines-Python-48%2B-ms)
 
 ## [Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
