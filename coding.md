@@ -49,3 +49,5 @@
 # Design
 
 ## [Stacks and Queues](https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b)
+
+## [Circular queue](https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/)
