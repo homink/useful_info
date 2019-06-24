@@ -46,3 +46,6 @@
 
 ## [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/): [solution](https://leetcode.com/problems/valid-parentheses/discuss/9588/Python-concise-solution-using-stack.)
 
+# Design
+
+## [Stacks and Queues](https://medium.com/@kojinoshiba/data-structures-in-python-series-2-stacks-queues-8e2a1703d67b)
