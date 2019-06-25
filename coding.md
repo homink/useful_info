@@ -19,6 +19,11 @@
 ## [Tree path](https://leetcode.com/problems/binary-tree-paths): [solution](https://leetcode.com/problems/binary-tree-paths/discuss/68329/Python-Solution-with-Detailed-Explanation)
 
 # LinkedList
+
+## [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/): [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/discuss/49832/Python-solution-with-detailed-explanation)
+
+## [Linked List Cycle](): [solution](https://leetcode.com/problems/linked-list-cycle/discuss/258723/Clean-Python-Solution)
+
 ## [Reverse LinkedList](https://leetcode.com/problems/reverse-linked-list/): [solution](https://leetcode.com/problems/reverse-linked-list/discuss/58338/Python-solution-Simple-Iterative)
 
 ## [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/): [solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/discuss/35593/Short-python-solution-based-on-Sorted-Array)
